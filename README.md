@@ -4,11 +4,11 @@
 
 ![ImageTools](https://img.shields.io/badge/ImageTools.pk-8_Tools-7c3aed?style=for-the-badge)
 ![No Watermark](https://img.shields.io/badge/No_Watermark-100%25_Free-00C7B7?style=for-the-badge)
-![Live](https://img.shields.io/badge/LIVE-imagetoolsbyshahab.netlify.app-00BFFF?style=for-the-badge&logo=netlify)
+![Live](https://img.shields.io/badge/LIVE-imagetools-pk.netlify.app-00BFFF?style=for-the-badge&logo=netlify)
 
 **Background Remover + Passport Photo Maker (NADRA) + Compressor + Resizer**
 
-[▶️ **Live Demo**](https://imagetoolsbyshahab.netlify.app/) | [📸 Preview](#-preview)
+[▶️ **Live Demo**](https://imagetools-pk.netlify.app/) | [📸 Preview](#-preview)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 
-![ImageTools Preview](https://raw.githubusercontent.com/shahabkhanprofessional-coder/Shahabkhanprofessional-coder/main/images/imagetools.png)
+![ImageTools Preview](https://raw.githubusercontent.com/shahabkhan4636/Shahabkhanprofessional-coder/main/images/imagetools.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 📦 Run Locally
 ```bash
-git clone https://github.com/shahabkhanprofessional-coder/ImageTools.pk.git
+git clone https://github.com/shahabkhan4636/ImageTools.pk.git
 cd ImageTools.pk
 # Open index.html
 ```
